@@ -40,7 +40,7 @@ topic = st.selectbox(
     [
         "Sistem Informasi", "Informatika", "Teknik Komputer", "Teknologi Informasi", 
         "Teknik Sipil", "Teknik Elektro", "Manajemen", "Ekonomi", 
-        "Sastra Inggris", "Pendidikan Bahasa Inggris", "Pendidikan Matematika"
+        "Sastra Inggris", "Pendidikan Bahasa Inggris", "Pendidikan Matematika", "Pendidikan Olahraga"
     ]
 )
 
